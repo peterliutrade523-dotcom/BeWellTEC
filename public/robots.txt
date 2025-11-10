@@ -1,0 +1,11 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap (动态生成)
+Sitemap: https://your-domain.com/api/sitemap.xml
+
+# 注意：
+# 1. 请将 your-domain.com 替换为您的实际域名
+# 2. Sitemap 现在通过 API 路由动态生成，包含所有页面和博客文章
+
